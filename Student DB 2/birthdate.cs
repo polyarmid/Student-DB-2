@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Student_DB_2
+namespace Student_DB_2 //asdiuvhwoeiuyrvhohrv
 {
     internal class birthdate
     {
