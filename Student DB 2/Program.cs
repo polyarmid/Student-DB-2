@@ -5,7 +5,7 @@ namespace Student_DB_2
 {
     internal class Program
     {
-        static void Main(string[] args) //kommentar ændret via vis stud
+        static void Main(string[] args) //Git -> commit or stash -> skriv noget i message -> sync -> save
         {
 
             //sætter Id til 1
