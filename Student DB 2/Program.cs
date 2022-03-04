@@ -102,6 +102,7 @@ namespace Student_DB_2
                             Console.WriteLine("\n\n Du skal vælge 1 eller 2 ! \n \n");
                         }
                         
+                        //kommentar
 
                     };
                 }
