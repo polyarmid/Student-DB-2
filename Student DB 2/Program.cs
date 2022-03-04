@@ -5,7 +5,7 @@ namespace Student_DB_2
 {
     internal class Program
     {
-        static void Main(string[] args) //kommentar forsøgt uploadet til github fra vis stud
+        static void Main(string[] args) //kommentar ændret via vis stud
         {
 
             //sætter Id til 1
