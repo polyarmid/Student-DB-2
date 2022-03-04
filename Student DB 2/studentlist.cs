@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Student_DB_2
 {
-    internal class Class1
+    internal class studentlist
     {
     }
 }

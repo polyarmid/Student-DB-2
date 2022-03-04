@@ -8,5 +8,7 @@ namespace Student_DB_2
 {
     internal class Classr2
     {
+
+        
     }
 }

@@ -5,6 +5,9 @@ namespace Student_DB_2
 {
     internal class Program
     {
+
+
+
         static void Main(string[] args) //Git -> commit or stash -> skriv noget i message -> sync -> save
         {
 
@@ -12,7 +15,6 @@ namespace Student_DB_2
             int startId = 1;
             //laver en ny liste han kaldte listen students
             List<student> studentsList = new List<student>();
-
 
 
             //add'er ny studerende
@@ -47,6 +49,8 @@ namespace Student_DB_2
             });
             startId++;
 
+
+
             while (true) {
                 {
 
@@ -57,6 +61,9 @@ namespace Student_DB_2
                         string input = Console.ReadLine();
                         if (input == "1") //bruger vælger at se oversigten
                         {
+
+
+
                             foreach (var student in studentsList)
                             {
                                 Console.ForegroundColor = ConsoleColor.Red;
